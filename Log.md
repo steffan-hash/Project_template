@@ -1,7 +1,7 @@
 # Log
 
 Dit bestand wordt door Claude bijgehouden, niet handmatig door de product
-owner. Nieuwste sessie bovenaan. Zie CLAUDE.md → "Sessie einde" voor het
+owner. Nieuwste sessie bovenaan. Zie CLAUDE.md → "Na elke afgeronde taak" voor het
 format.
 
 <!--
